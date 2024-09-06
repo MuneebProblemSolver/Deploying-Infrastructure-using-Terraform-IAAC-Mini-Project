@@ -1,11 +1,7 @@
 # Deploying-Infrastructure-using-Terraform-IAAC-Mini-Project
 Deploying Infrastructure using Terraform(IAAC) Mini Project
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
+## Initilization 
 Initialize Terraform: Open your Integrated Development Environment (IDE) and navigate to the directory containing your configuration files. In the terminal, run the following command to initialize Terraform and prepare it for AWS:
 
 ```bash
@@ -34,4 +30,5 @@ Copy the generated website link from the output and paste it into your favorite 
 
 ## Let's Connect on LinkedIn
 [Malik Muneeb Asghar](https://www.linkedin.com/in/malik-muneeb-asghar-50a886244/)
+
 ![](LinkedIn-image.png)
